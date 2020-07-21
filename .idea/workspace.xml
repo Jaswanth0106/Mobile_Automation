@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bb7d6eb-28c1-43be-af11-75d436496c8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ewqetuu2vc3wW78K4JUNQgobGA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bb7d6eb-28c1-43be-af11-75d436496c8c" name="Default Changelist" comment="" />
+      <created>1595243102458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595243102458</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="401" y="183" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1595258081705">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="401" y="183" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.680@0.0.1280.680" timestamp="1595258081705" />
+    <state x="420" y="98" key="FileChooserDialogImpl" timestamp="1595307037236">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1595307037236" />
+    <state x="221" y="79" key="IDE.errors.dialog" timestamp="1595243566700">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="79" key="IDE.errors.dialog/0.0.1280.680@0.0.1280.680" timestamp="1595243566700" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1595307014754">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1595307014754" />
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1595243533900">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1595243533900" />
+    <state x="345" y="0" width="591" height="680" key="find.popup" timestamp="1595304076678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="345" y="0" width="591" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1595304076678" />
+  </component>
+</project>
